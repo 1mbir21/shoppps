@@ -1,0 +1,10 @@
+venv/
+.pylintrc
+__pycache__/
+
+.vsc0de
+.idea
+.env
+
+de.sqlite3
+media/
